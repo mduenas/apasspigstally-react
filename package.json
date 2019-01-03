@@ -1,0 +1,16 @@
+{
+  "name": "apasspigstally",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-dom": "^0.14.7",
+    "react-native": "^0.20.0",
+    "react-native-admob": "^0.3.0",
+    "react-native-orientation": "^1.15.0",
+    "react-native-toast": "^1.0.1",
+    "react-tween-state": "^0.1.4"
+  }
+}
